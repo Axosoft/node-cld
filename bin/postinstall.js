@@ -1,3 +1,6 @@
+// NOTICE
+// This file was changed to allow PDB files to exist after the post install.
+
 var path   = require('path');
 var fs     = require('fs');
 var rimraf = require('rimraf');
